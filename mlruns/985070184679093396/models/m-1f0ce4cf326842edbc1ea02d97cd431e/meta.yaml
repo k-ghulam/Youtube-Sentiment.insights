@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/Ghulam/Desktop/MLOPs/YouTube-Sentiment-Insights1/Youtube-Sentiment.insights/mlruns/985070184679093396/models/m-1f0ce4cf326842edbc1ea02d97cd431e/artifacts
+creation_timestamp: 1755247168546
+experiment_id: '985070184679093396'
+last_updated_timestamp: 1755247174221
+model_id: m-1f0ce4cf326842edbc1ea02d97cd431e
+model_type: null
+name: lgbm_model
+source_run_id: 6942597bb05042e5b65fd1c3ce91c0b0
+status: 2
+status_message: null

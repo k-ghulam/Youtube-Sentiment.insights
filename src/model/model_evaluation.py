@@ -12,6 +12,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import json
 from mlflow.models import infer_signature
+import mlflow
+
+
 
 # logging configuration
 logger = logging.getLogger('model_evaluation')
@@ -127,7 +130,9 @@ def save_model_info(run_id: str, model_path: str, file_path: str) -> None:
 
 
 def main():
-    mlflow.set_tracking_uri("http://ec2-54-167-108-249.compute-1.amazonaws.com:5000/")
+    mlflow.set_tracking_uri("http://ec2-16-171-240-250.eu-north-1.compute.amazonaws.com:5000/")
+    
+   # mlflow.set_tracking_uri("file:./mlruns")
 
     mlflow.set_experiment('dvc-pipeline-runs')
     

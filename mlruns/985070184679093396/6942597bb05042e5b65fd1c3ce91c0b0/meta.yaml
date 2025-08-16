@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/Ghulam/Desktop/MLOPs/YouTube-Sentiment-Insights1/Youtube-Sentiment.insights/mlruns/985070184679093396/6942597bb05042e5b65fd1c3ce91c0b0/artifacts
+end_time: 1755247177361
+entry_point_name: ''
+experiment_id: '985070184679093396'
+lifecycle_stage: active
+run_id: 6942597bb05042e5b65fd1c3ce91c0b0
+run_name: likeable-ray-118
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755247165578
+status: 3
+tags: []
+user_id: Ghulam
